@@ -16,4 +16,4 @@ Perfil laboral
 
 Cursos realizados:
 
-[Platzi](https://platzi.com/p/jorgetaberoa/)
+[Platzi](https://platzi.com/p/jorgetaberoa/) [](//static.platzi.com/media/favicons/platzi_favicon.png)
