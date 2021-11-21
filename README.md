@@ -18,9 +18,7 @@ Soy un estudiante **autodidacta**, creo en la intersección de conocimientos par
 	
 	- Django.
 	- Postgresql.
-	- Go.
 	- Web3 essentials.
-	- Solidity. 🐍
 	- NestJS. 👨‍💻
 
 
