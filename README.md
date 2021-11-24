@@ -12,11 +12,14 @@ Soy un estudiante **autodidacta**, creo en la intersección de conocimientos par
 	- Python. 🐍
 	- Scripting. 👨‍💻
 	- AngularJS 👴👴
+	- HTML5.
+	- CSS3.
 
 	Aprendiendo...
 	
 	
 	- Django.
+	- React.
 	- Postgresql.
 	- Web3 essentials.
 	- NestJS. 👨‍💻
