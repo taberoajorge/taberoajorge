@@ -4,7 +4,7 @@
 Soy un estudiante **autodidacta**, creo en la intersección de conocimientos para alcanzar el éxito.
 
 	Mis skills son los siguientes:
-
+	- ReactJS
 	- JavaScript.
 	- TypeScript.
 	- Angular.
