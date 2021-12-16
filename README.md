@@ -17,11 +17,11 @@ Soy un estudiante **autodidacta**, creo en la intersección de conocimientos par
 
 	Aprendiendo...
 	
-	
+	- NextJS. 👨‍💻
 	- Django.
 	- Postgresql.
 	- Web3 essentials.
-	- NestJS. 👨‍💻
+	
 
 
 Actualmente estoy profundizando mi conocimiento, y creando un portafolio, sería un placer tenerte aquí nuevamente, así que atento para mis jugadas. 
