@@ -26,3 +26,4 @@ Soy un estudiante **autodidacta**, creo en la intersección de conocimientos par
 
 Actualmente estoy profundizando mi conocimiento, y creando un portafolio, sería un placer tenerte aquí nuevamente, así que atento para mis jugadas. 
  
+ [![taberoajorge's github stats](https://github-readme-stats.vercel.app/api?username=taberoajorge)](https://github.com/taberoajorge)
