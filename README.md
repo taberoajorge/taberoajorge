@@ -1,6 +1,8 @@
 	🌎 Hello World 🌎
  Soy **Jorge Taberoa** 🐱‍💻
 
+![@taberoajorge twitter](https://img.shields.io/twitter/follow/taberoajorge?style=social)
+
 Soy un estudiante **autodidacta**, creo en la intersección de conocimientos para alcanzar el éxito.
 
 	Mis skills son los siguientes:
@@ -25,5 +27,11 @@ Soy un estudiante **autodidacta**, creo en la intersección de conocimientos par
 
 
 Actualmente estoy profundizando mi conocimiento, y creando un portafolio, sería un placer tenerte aquí nuevamente, así que atento para mis jugadas. 
+
+### 📫 You can find me
+- [Twitter](https://twitter.com/taberoajorge) 🐦
+- [LinkedIn](https://linkedin.com/in/taberoajorge) 💼
  
- [![taberoajorge's github stats](https://github-readme-stats.vercel.app/api?username=taberoajorge)](https://github.com/taberoajorge)
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=taberoajorge&theme=cobalt)
+![My stats](https://github-readme-stats.vercel.app/api?username=taberoajorge&count_private=true&show_icons=true&theme=cobalt)
