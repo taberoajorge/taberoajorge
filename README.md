@@ -1,7 +1,6 @@
 	🌎 Hello World 🌎
  Soy **Jorge Taberoa** 🐱‍💻
 
-![@taberoajorge twitter](https://img.shields.io/twitter/follow/taberoajorge?style=social)
 
 Soy un estudiante **autodidacta**, creo en la intersección de conocimientos para alcanzar el éxito.
 
