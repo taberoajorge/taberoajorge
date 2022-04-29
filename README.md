@@ -30,7 +30,10 @@ Actualmente estoy profundizando mi conocimiento, y creando un portafolio, sería
 ### 📫 You can find me
 - [Twitter](https://twitter.com/taberoajorge) 🐦
 - [LinkedIn](https://linkedin.com/in/taberoajorge) 💼
- 
+
+ ### Lenguajes mas usados
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=taberoajorge&theme=cobalt)
+
+### Mis estadisticas
 ![My stats](https://github-readme-stats.vercel.app/api?username=taberoajorge&count_private=true&show_icons=true&theme=cobalt)
