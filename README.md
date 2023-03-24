@@ -1,39 +1,44 @@
-	🌎 Hello World 🌎
- Soy **Jorge Taberoa** 🐱‍💻
 
+![Banner](https://pbs.twimg.com/profile_banners/1165344219847954435/1634312590/1500x500)
 
-Soy un estudiante **autodidacta**, creo en la intersección de conocimientos para alcanzar el éxito.
+# 🌎 Hola, Mundo! Soy Jorge Taberoa 🌎
 
-	Mis skills son los siguientes:
-	- ReactJS
-	- JavaScript.
-	- TypeScript.
-	- Angular.
-	- NodeJS.
-	- Python. 🐍
-	- Scripting. 👨‍💻
-	- AngularJS 👴👴
-	- HTML5.
-	- CSS3.
+Soy un estudiante **autodidacta** y creo en la intersección de conocimientos para alcanzar el éxito.
 
-	Aprendiendo...
-	
-	- NextJS. 👨‍💻
-	- Django.
-	- Postgresql.
-	- Web3 essentials.
-	
+## 🚀 Mis habilidades
 
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-Actualmente estoy profundizando mi conocimiento, y creando un portafolio, sería un placer tenerte aquí nuevamente, así que atento para mis jugadas. 
+## 🎓 Aprendiendo...
 
-### 📫 You can find me
-- [Twitter](https://twitter.com/taberoajorge) 🐦
-- [LinkedIn](https://linkedin.com/in/taberoajorge) 💼
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![Web3](https://img.shields.io/badge/-Web3%20Essentials-6A4C93?style=for-the-badge)
 
- ### Lenguajes mas usados
+Actualmente, estoy profundizando mi conocimiento y creando un portafolio. Sería un placer tenerte aquí nuevamente, así que ¡mantente atento a mis jugadas!
+
+## 📫 Encuéntrame en
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/taberoajorge)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/taberoajorge)
+
+## 📊 Estadísticas
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=taberoajorge&theme=cobalt)
-
-### Mis estadisticas
 ![My stats](https://github-readme-stats.vercel.app/api?username=taberoajorge&count_private=true&show_icons=true&theme=cobalt)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=taberoajorge&theme=cobalt)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=taberoajorge&theme=cobalt)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taberoajorge&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Skyline](https://skyline.github.com/taberoajorge/2022.png)
+
+
+
+
