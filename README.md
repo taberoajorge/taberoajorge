@@ -1,4 +1,5 @@
 
+
 ![Banner](https://pbs.twimg.com/profile_banners/1165344219847954435/1634312590/1500x500)
 
 # 🌎 Hola, Mundo! Soy Jorge Taberoa 🌎
@@ -33,11 +34,14 @@ Actualmente, estoy profundizando mi conocimiento y creando un portafolio. Sería
 ## 📊 Estadísticas
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=taberoajorge&theme=cobalt)
+---
 ![My stats](https://github-readme-stats.vercel.app/api?username=taberoajorge&count_private=true&show_icons=true&theme=cobalt)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=taberoajorge&theme=cobalt)
+--
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=taberoajorge&theme=cobalt)
-[![trophy](https://github-profile-trophy.vercel.app/?username=taberoajorge&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Skyline](https://skyline.github.com/taberoajorge/2022.png)
+--
+
+[![GitHub Skyline](https://img.shields.io/badge/GitHub%20Skyline-2023-blue)](https://skyline.github.com/taberoajorge/2023)
+
 
 
 
