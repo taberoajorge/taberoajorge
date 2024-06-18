@@ -16,13 +16,12 @@ Soy un estudiante **autodidacta** y creo en la intersección de conocimientos pa
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ## 🎓 Aprendiendo...
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![Web3](https://img.shields.io/badge/-Web3%20Essentials-6A4C93?style=for-the-badge)
 
 Actualmente, estoy profundizando mi conocimiento y creando un portafolio. Sería un placer tenerte aquí nuevamente, así que ¡mantente atento a mis jugadas!
 
