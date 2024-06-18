@@ -27,7 +27,7 @@ Actualmente, estoy profundizando mi conocimiento y creando un portafolio. Sería
 
 ## 📫 Encuéntrame en
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/taberoajorge)
+[![X](https://img.shields.io/badge/-x-1DA1F2?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/nyctibiuscode)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/taberoajorge)
 
 ## 📊 Estadísticas
