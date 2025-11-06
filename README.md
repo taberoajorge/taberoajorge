@@ -8,6 +8,10 @@
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/taberoajorge)
 [![Bluesky](https://img.shields.io/badge/-Follow-1DA1F2?style=flat&logo=Bluesky&logoColor=white)](https://bsky.app/profile/nyctibiuscode.bsky.social)
 
+<br/>
+
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/taberoajorge/taberoajorge/raw/main/assets/Jorge_Taberoa_Resume.pdf)
+
 </div>
 
 ---
