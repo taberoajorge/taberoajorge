@@ -1,44 +1,92 @@
+<div align="center">
 
+# 👋 Hi, I'm Jorge Taberoa
 
-![Banner](https://pbs.twimg.com/profile_banners/1165344219847954435/1634312590/1500x500)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Self-Taught+Engineer;Lifelong+Learner;Building+Great+Things)](https://git.io/typing-svg)
 
-# 🌎 Hola, Mundo! Soy Jorge Taberoa 🌎
+[![Profile Views](https://komarev.com/ghpvc/?username=taberoajorge&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/taberoajorge)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/taberoajorge)
+[![Bluesky](https://img.shields.io/badge/-Follow-1DA1F2?style=flat&logo=Bluesky&logoColor=white)](https://bsky.app/profile/nyctibiuscode.bsky.social)
 
-Soy un estudiante **autodidacta** y creo en la intersección de conocimientos para alcanzar el éxito.
+</div>
 
-## 🚀 Mis habilidades
-
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-
-## 🎓 Aprendiendo...
-[WIP]
-
-Actualmente, estoy profundizando mi conocimiento y creando un portafolio. Sería un placer tenerte aquí nuevamente, así que ¡mantente atento a mis jugadas!
-
-## 📫 Encuéntrame en
-
-[![X](https://img.shields.io/badge/-x-1DA1F2?logo=X&logoColor=white&style=for-the-badge)]([https://twitter.com/nyctibiuscode](https://bsky.app/profile/nyctibiuscode.bsky.social))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/taberoajorge)
-
-## 📊 Estadísticas
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=taberoajorge&theme=cobalt)
 ---
-![My stats](https://github-readme-stats.vercel.app/api?username=taberoajorge&count_private=true&show_icons=true&theme=cobalt)
---
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=taberoajorge&theme=cobalt)
---
 
-[![GitHub Skyline](https://img.shields.io/badge/GitHub%20Skyline-2023-blue)](https://skyline.github.com/taberoajorge/2023)
+## 🚀 About Me
 
+I'm a **self-taught developer** passionate about creating impactful software solutions. I believe in the **intersection of knowledge** as the path to success, constantly learning and adapting to new technologies.
 
+- 🔭 Currently working on building my portfolio
+- 🌱 Learning new technologies and best practices
+- 💡 Passionate about clean code and modern architecture
+- 🎯 Open to collaboration on interesting projects
 
+---
 
+## 🛠️ Tech Stack
 
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taberoajorge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taberoajorge&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taberoajorge&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taberoajorge&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taberoajorge&theme=tokyo-night&hide_border=true&area=true)](https://github.com/taberoajorge)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taberoajorge)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nyctibiuscode.bsky.social)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taberoajorge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### ✨ Thanks for visiting!
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
