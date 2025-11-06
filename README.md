@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/taberoajorge/taberoajorge/raw/main/assets/taberoajorge-ats-friendly.pdf)
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/taberoajorge/taberoajorge/raw/main/assets/jorge-taberoa-ats-cv.pdf)
 
 </div>
 
