@@ -21,7 +21,7 @@ I'm a **seasoned Full Stack Developer** with **5+ years of professional experien
 ### 💼 Professional Experience
 
 - **💻 Outbuild** - Software Engineer | 2nd largest contributor (2,368 commits) on enterprise backend, optimized React/Node.js microservices
-- **⚙️ Fracttal** - Frontend Developer | Built 3 reusable component libraries (fracttalcore, fracttus), developed API portal with React/TypeScript
+- **⚙️ Fracttal** - Frontend Developer | Architected enterprise component libraries and design systems, developed API portal with React/TypeScript
 - **🏠 Loft MX** - Full Stack Developer | Led full-stack rebranding initiative, integrated MessageBird with Django backend
 - **📊 Ambit Technology** - Full Stack Developer | Enhanced ERP systems, developed AWS solutions, improved UX by 80%
 
@@ -68,11 +68,6 @@ I'm a **seasoned Full Stack Developer** with **5+ years of professional experien
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Web3 & Blockchain
-![Web3](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
 ---
 
 ## 🌟 Featured Projects
@@ -80,7 +75,7 @@ I'm a **seasoned Full Stack Developer** with **5+ years of professional experien
 <div align="center">
 
 [![saime-script](https://github-readme-stats.vercel.app/api/pin/?username=taberoajorge&repo=saime-script&theme=tokyonight&hide_border=true)](https://github.com/taberoajorge/saime-script)
-[![casino-dapp](https://github-readme-stats.vercel.app/api/pin/?username=taberoajorge&repo=casino-dapp&theme=tokyonight&hide_border=true)](https://github.com/taberoajorge/casino-dapp)
+[![newsletter-buddy](https://github-readme-stats.vercel.app/api/pin/?username=taberoajorge&repo=newsletter-buddy&theme=tokyonight&hide_border=true)](https://github.com/taberoajorge/newsletter-buddy)
 [![advance-react-store](https://github-readme-stats.vercel.app/api/pin/?username=taberoajorge&repo=advance-react-store&theme=tokyonight&hide_border=true)](https://github.com/taberoajorge/advance-react-store)
 [![clean-code-javascript-es](https://github-readme-stats.vercel.app/api/pin/?username=taberoajorge&repo=clean-code-javascript-es&theme=tokyonight&hide_border=true)](https://github.com/taberoajorge/clean-code-javascript-es)
 
@@ -88,8 +83,8 @@ I'm a **seasoned Full Stack Developer** with **5+ years of professional experien
 
 ### 🏆 Notable Achievements
 - **`saime-script`** - Python monitoring script with **179 stars** ⭐ and **21 forks** 🍴
-- **Component Libraries** - Built 3 production component libraries: `fracttalcore`, `fracttus`, `outbuild-ui`
-- **Enterprise Contributor** - 2nd largest contributor on Outbuild's backend (2,368 commits)
+- **Enterprise Contributor** - 2nd largest contributor on major enterprise backend (2,368 commits)
+- **Component Libraries** - Architect and creator of multiple production-grade design systems
 
 ---
 
@@ -97,7 +92,7 @@ I'm a **seasoned Full Stack Developer** with **5+ years of professional experien
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taberoajorge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taberoajorge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=taberoajorge&theme=tokyonight&hide_border=true)
 
