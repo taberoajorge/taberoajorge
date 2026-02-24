@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jorge Taberoa
+# 👋 Hi, I'm Alex Taberoa
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Senior+Full+Stack+Developer;5%2B+Years+of+Experience;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
