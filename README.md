@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Senior+Full+Stack+Developer;5%2B+Years+of+Experience;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=taberoajorge&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/taberoajorge)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/taberoajorge)
 [![Bluesky](https://img.shields.io/badge/-Follow-1DA1F2?style=flat&logo=Bluesky&logoColor=white)](https://bsky.app/profile/nyctibiuscode.bsky.social)
 
 <br/>
@@ -127,7 +126,6 @@ I'm a **seasoned Full Stack Developer** with **5+ years of professional experien
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taberoajorge)
 [![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nyctibiuscode.bsky.social)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taberoajorge)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:job@taberoa.simplelogin.com)
