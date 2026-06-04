@@ -143,7 +143,7 @@ I'm a **seasoned Full Stack Developer** with **5+ years of professional experien
 
 ### ✨ Thanks for visiting!
 
-**📍 Location:** CDMX, Mexico | **📧 Contact:** job@taberoa.simplelogin.com | **🔗 Links:** [linktr.ee/taberoajorge](https://linktr.ee/taberoajorge)
+**📍 Location:** CDMX, Mexico | **📧 Contact:** job@taberoa.simplelogin.com
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
